@@ -5,7 +5,7 @@ Graduate student in **Data Science in Human Behavior** at UW–Madison, interest
 ## 🎓 Background
 - M.S. Data Science in Human Behavior, UW–Madison (in progress)
 - B.S. Psychology, Michigan State University — minors in Quantitative Data Analytics and Cognitive Science
-- Former Registered Behavior Technician, working with children and collecting session data for clinical teams
+- Former Behavior Technician, working with children and collecting session data for clinical teams
 
 ## 🛠 Skills
 **Languages:** Python, R
